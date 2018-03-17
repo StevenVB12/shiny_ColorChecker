@@ -9,4 +9,4 @@ Run in R (shinyapps.io has restrictions on memory usage, so may fail for large i
 runGitHub("shiny_ColorChecker","StevenVB12")
 ```
 
-This function is also available in the patternize R package (see https://github.com/StevenVB12/patternize, allows batch processing).
+This function is also available in the patternize R package (see https://github.com/StevenVB12/patternize) for batch processing.
